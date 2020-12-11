@@ -1,6 +1,6 @@
 # Info
 
-This repo contains codes I implemented during my research on acoustic metamaterials.
+This repo contains MATLAB codes for some papers in the field of acoustic metamaterials.
 
 # Papers
 
